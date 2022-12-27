@@ -5,7 +5,7 @@
 <p>
 
 <p align="center">
-An open source low-code tool for building web apps of any complexity
+An open source low-code tool for building web apps of any complexity.
 </p>
 
 <p align="center">
